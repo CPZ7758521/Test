@@ -7,4 +7,6 @@
 7    hello Git
 8    hello Git
 9    hello Git master 冲突
+8    hello Git 冲突吗
+9    hello Git hot-fix 冲突
 10   hello Git hot-fix xiugai
