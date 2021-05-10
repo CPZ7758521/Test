@@ -6,5 +6,5 @@
 6    hello Git
 7    hello Git
 8    hello Git
-9    hello Git
+9    hello Git master 冲突
 10   hello Git hot-fix xiugai
